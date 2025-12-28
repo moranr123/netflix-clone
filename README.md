@@ -19,6 +19,7 @@ npm run build
 npm run preview   # serve the built dist locally
 ```
 
+
 ## Environment variables
 
 Keep secrets out of source. Create a `.env.local` (not committed) and add Vite-prefixed vars:

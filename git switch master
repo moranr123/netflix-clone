@@ -1,0 +1,36 @@
+[33mcommit caeb575e09942e67ba0149b501264ce50c4b97cd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Ronald Moran Jr <ronaldmoran930@gmail.com>
+Date:   Tue Aug 19 23:42:07 2025 +0800
+
+    Update README
+
+[33mcommit 90246dc4c1936121f1a8157f933b3d049ac84a7e[m
+Author: Ronald Moran Jr <ronaldmoran930@gmail.com>
+Date:   Tue Aug 19 23:15:20 2025 +0800
+
+    Adding Responsive design
+
+[33mcommit 2db804a9facc262d776148138834d5a4ad6e9d2a[m
+Author: Ronald Moran Jr <ronaldmoran930@gmail.com>
+Date:   Mon Aug 18 20:16:43 2025 +0800
+
+    Create footer
+    Create Login page with Sign In/Sign Up toggle
+
+[33mcommit 36f53c4dab08bfbfc34eb33a131464959e51b131[m
+Author: Ronald Moran Jr <ronaldmoran930@gmail.com>
+Date:   Mon Aug 18 03:18:17 2025 +0800
+
+    Added horizontal card list
+
+[33mcommit 5b29d749a33f82662c2317c4f8c2a5dfacca8f47[m
+Author: Ronald Moran Jr <ronaldmoran930@gmail.com>
+Date:   Sat Aug 16 04:22:30 2025 +0800
+
+    Adding background image and buttons to home page
+
+[33mcommit 24dc49bb69a2100e67458207c045b6c816f1ab8d[m
+Author: Ronald Moran Jr <ronaldmoran930@gmail.com>
+Date:   Sat Aug 16 03:26:00 2025 +0800
+
+    Creating Navigation Bar
